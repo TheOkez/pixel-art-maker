@@ -2,15 +2,10 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [LINK](#LINK)
 
-## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+## LINK
+Here is a link to my github pages: https://theokez.github.io/pixel-art-maker/
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
