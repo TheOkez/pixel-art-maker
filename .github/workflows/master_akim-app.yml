@@ -7,7 +7,6 @@ on:
   push:
     branches:
       - master
-  workflow_dispatch:
 
 jobs:
   build-and-deploy:
@@ -32,4 +31,4 @@ jobs:
       with:
         app-name: 'akim-app'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_791fd74fa97f40b4a445dc43b977f54b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4588b8190304470ea34d89ead423f417 }}
